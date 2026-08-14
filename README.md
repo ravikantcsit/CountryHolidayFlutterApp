@@ -6,7 +6,7 @@ A modern, high-performance Flutter application for discovering and exploring pub
 
 ## 📱 App Preview
 
-![Global Holidays Flutter App Screenshot](screenshots/app_screenshot.png)
+<img src="screenshots/app_screenshot.png" alt="Global Holidays Flutter App Screenshot" width="300" />
 
 ---
 
